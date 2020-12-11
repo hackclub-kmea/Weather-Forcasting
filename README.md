@@ -1,5 +1,7 @@
 # Weather-Forcasting
 ## Members
-Arnold Bennet  
+Arnold Bennet                        
+Sandra Santhosh
 Anees  
 Nadhiya 
+Sandra Santhosh  
